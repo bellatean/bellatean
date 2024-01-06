@@ -1,1 +1,1 @@
-Node.js 🦖 backend developer 
+Node.js 🦖 developer 
